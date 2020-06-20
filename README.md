@@ -1,2 +1,6 @@
 # Hardware-Software-Co-Design-with-Zynq7000
 Applying Specific Filters on Video Using SoC Architecture
+
+This project represents a hardware and software co-design for video processing module which is a part of a camera system module OV7670 based on Zynq-7000 SoC device. The main purpose of this work is to apply filters which is designed by using HLS to video input. In order to develop the required hardware and software co-design; Vivado 2017.4, SDK 2017.4 and HLS 2017.4 is used. Because of the important applications based on SoC devices are focused on image and signal processing areas such as smart video systems, there is an increasing demand for faster and more efficient image/video processing systems. Due to the benefits of hardware-based filters and utilization summary, this application is utilizable for implementing any complex video processing application in real-time.
+The aim of this work is to present a faster and versatile development platform for video processing algorithms.Live video from a camera is the input to the platform and through interfaces connected to the system user inputs are given. Integration within the embedded system includes user handling capability. 
+Top design file and final report was uploaded.
